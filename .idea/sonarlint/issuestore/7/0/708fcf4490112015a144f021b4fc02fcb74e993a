@@ -1,0 +1,8 @@
+
+8
+java:S2386"Make this member "protected".(áöÆúÿÿÿÿ
+q
+java:S1104"VMake clientList a static final constant or non-public and provide accessors if needed.(áöÆúÿÿÿÿ
+K
+java:S1444"0Make this "public static clientList" field final(áöÆúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•éÎøøÿÿÿÿ
